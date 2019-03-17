@@ -1,6 +1,6 @@
 ## Synopsis
 
-Several files to demonstrate the basic operations that you can do on Cloud MongoDB Atlas instance from local files using NodeJS.
+Several files to demonstrate some basic operations that you can do on Cloud MongoDB Atlas instance from local computer using NodeJS.
 
 
 ## Installation
